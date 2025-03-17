@@ -3,3 +3,4 @@ henkou by VAIO P
 add by ブラウザ
 add by VScode
 add branch by VScode
+add branch by browser
